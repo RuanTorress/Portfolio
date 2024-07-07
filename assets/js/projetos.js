@@ -5,14 +5,14 @@ function projetos(section) {
     <div class="content">
       <div class="cards">
         <div class="card">
-          <h3>Orange Evolution</h3>
+          <h3>Gerador de senhas</h3>
           <div class="img-wrapper">
             <img
               src="./assets/images/projects/orange-evolution.gif"
               alt="GIF do projeto Orange Evolution."
             />
             <div class="buttons">
-              <a href="https://github.com/squad-30/OrangeEvolution-Squad30" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/RuanTorress/gerado-de-senha-" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -26,7 +26,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://orangeevolution-squad30.up.railway.app" target="_blank" title="Ver Projeto">
+              <a href="https://ruantorress.github.io/gerado-de-senha-/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -42,19 +42,19 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Plataforma de estudos desenvolvida na Hackathon do Programa de Formação 4 da FCamara.
+            Plataforma de cadastro com ops de um Gerador de senhas 
           </p>
-          <p>HTML - CSS - JS - NodeJS - Express - SQLite</p>
+          <p>HTML - CSS - JS   - SQLite</p>
         </div>
         <div class="card">
-          <h3>Desafio 21 dias de código</h3>
+          <h3>Criptografia de Texto</h3>
           <div class="img-wrapper">
             <img
               src="./assets/images/projects/desafio-de-codigo.jpg"
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/RuanTorress/criptografia-" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -68,7 +68,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="#projects" id="desafio" title="Ver Projetos">
+              <a href="https://ruantorress.github.io/criptografia-/" title="Ver Projetos">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -84,16 +84,16 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            Desafio promovido pela Rocketseat com 21 projetos diferentes.
+            Desafio promovido pela Alura Criptografar e Descriptografa projetos diferentes.
           </p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Nutricionista Roberto - Links</h3>
+          <h3>Bio de empresas </h3>
           <div class="img-wrapper">
             <img src="./assets/images/projects/roberto-links.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-bio" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/RuanTorress/Turmalina/" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -107,7 +107,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://robertoovidionutri-bio.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://ruantorress.github.io/Turmalina/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -126,11 +126,11 @@ function projetos(section) {
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Nutricionista Roberto - Página de consulta</h3>
+          <h3>Calculadora</h3>
           <div class="img-wrapper">
             <img src="./assets/images/projects/roberto-consulta.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/robertoovidionutri-consulta" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/RuanTorress/tabuada_de_soma" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -144,7 +144,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://robertoovidionutri-consulta.vercel.app" target="_blank" title="Ver Projeto">
+              <a href="https://ruantorress.github.io/tabuada_de_soma/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -159,15 +159,15 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Página de contato para consultas desenvolvida para cliente.</p>
+          <p>Página de calculadora.</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
-          <h3>Doctor Care</h3>
+          <h3>Pagina de vendas</h3>
           <div class="img-wrapper">
             <img src="./assets/images/projects/doctorcare.gif" alt="Imagem do projeto." />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/doctorcare" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/RuanTorress/vendas-de-planos" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -181,7 +181,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://lucyanovidio.github.io/doctorcare/" target="_blank" title="Ver Projeto">
+              <a href="https://ruantorress.github.io/vendas-de-planos/" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -196,7 +196,7 @@ function projetos(section) {
               </a>
             </div>
           </div>
-          <p>Projeto de site desenvolvido na Next Level Week Return da Rocketseat.</p>
+          <p>Projeto de site desenvolvido com intuito de vendas de planos.</p>
           <p>HTML - CSS - JS</p>
         </div>
         <div class="card">
@@ -234,7 +234,7 @@ function projetos(section) {
             </div>
           </div>
           <p>
-            O presente site que desenvolvi para apresentar a mim e meus
+            O presente site que desenvolvi que apresenta meus
             projetos.
           </p>
           <p>HTML - CSS - JS</p>
